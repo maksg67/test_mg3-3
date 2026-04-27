@@ -1,0 +1,1 @@
+print('rozowy superlike button')
